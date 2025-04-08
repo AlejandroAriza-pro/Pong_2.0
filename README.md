@@ -1,4 +1,4 @@
 # Pong_2.0
-Juego Pong con algún cambio
+Juego Pong clásico y una nueva versión.
 
 https://pong-2.netlify.app/
